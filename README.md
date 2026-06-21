@@ -26,9 +26,9 @@ I am currently working on a motor-driven Resch tessellation origami robot.
 
 ### Resch Origami Robot
 
-Motor-driven origami robotic structure.
+Research platform for origami-inspired robotic design.
 
-[Project Repository](这里以后放链接)
+[Project Page](https://github.com/Krystal-yk/Origami-Studio)
 
 ---
 
